@@ -28,8 +28,11 @@ package.json -
 ----------
 * Package.json includes inquirer and jest, both downloaded
 
-https://github.com/jimbolikesgithub/Profile-Generator-10
-Sreenshot HERE
+https://github.com/jimbolikesgithub/Profile-Generator-10 <br/>
+
+## Video Link <a name='video-link'></a>
+[Video](https://drive.google.com/file/d/1HjqYADcjHPIxYAN7ldTjfUkFR9nJThi2/view?usp=sharing)
+
 
 Acknowledgements
 ----------------
