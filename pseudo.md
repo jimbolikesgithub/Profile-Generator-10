@@ -1,9 +1,17 @@
 # HW 10 TO-DOs
 
+<!-- DONE -->
 1. Install Inquirer and Jest before ANYTHING ELSE
     - Make sure you check package.json to confirm their presence
     - You must also have a package-lock.json once installing (it should be there automatically)
-2. Create a prompt
+2. Create generateHTML function
+<!-- DONE -->
+    - This will create separate boxes which will hold the aformentioned data inside of it
+<!-- DONE -->
+3. Add 'Manager', 'Engineer', and 'Intern Classes'
+    - They MUST extend 'Employee' Parent Class
+<!--  -->
+4. Create a prompt
     - Use console.log to check the prompt works...
     - ...BEFORE appending the data to generateHTML function
     - Will include the following formatted team roster:
@@ -16,5 +24,3 @@
             + ...THEN taken back to menu
         * WHEN decided to finish building team...
             + ...THEN exit application; HTML is generated
-3. Create generateHTML function
-    - This will create separate boxes which will hold the aformentioned data inside of it

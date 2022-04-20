@@ -1,5 +1,6 @@
 // Imports inquirer
 const inquirer = require('inquirer');
+const index = require('./index');
 // console.log(inquirer) <--- Works
 
 // Reads and writes files
@@ -29,8 +30,8 @@ const makeHTML = (answers) => {
         <!-- Manager Card -->
         <div class="card" style="width: 18rem;">
             <div class="card-body">
-            <h2 class="card-title">Name</h2>
-            <h3 class="card-text">Manager</h3>
+            <h2 class="card-title"></h2>
+            <h3 class="card-text"></h3>
             </div>
             <ul class="list-group list-group-flush">
             <li class="list-group-item">ID: </li>
@@ -107,5 +108,9 @@ const makeHTML = (answers) => {
 
 </html>`;
 };
+
+const init = () => {
+
+}
 
 makeHTML();
